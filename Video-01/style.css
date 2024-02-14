@@ -1,0 +1,20 @@
+body{
+    margin-top: 10;
+    margin-left: 10%;
+    background-color: rosybrown;
+}
+body:hover {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#s {
+    background-color: blue;
+    color: aliceblue;
+}
+
+
+#s:hover {
+    background-color: green;
+    color: blue;
+}
