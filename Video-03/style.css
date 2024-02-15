@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(57, 3, 57);
+    color: white;
+}
+
+.hel{
+    margin: 10;
+    background-color: blue;
+    list-style-type: none;
+}
+
+.hellos{
+    background-color: green;
+}
